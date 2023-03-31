@@ -1,0 +1,10 @@
+Epic Key,Epic description,Story Key,Story description,Status
+DEV-1,login and registration process,DEV-123,new login feature with two-factor authentication,Todo
+DEV-1,login and registration process,DEV-124,optimizing the user registration process,Todo
+DEV-1,login and registration process,DEV-122,basic login functionality,Todo
+DEV-1,login and registration process,DEV-112,create login screen UI,Completed
+DEV-10,changes based on user feedback,DEV-125,redesign the dashboard interface based on the feedback we received from our users,Todo
+DEV-2,admin interface,DEV-126,creating a reporting module for our admin users,Todo
+DEV-10,changes based on user feedback,DEV-127,fixing bugs related to the search functionality,Todo
+DEV-9,performance improvements,DEV-128,improving the performance of our API calls,Todo
+DEV-9,performance improvements,DEV-129,improving the performance of the search,Todo
