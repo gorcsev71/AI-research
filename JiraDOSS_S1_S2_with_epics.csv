@@ -1,0 +1,21 @@
+Summary;Issue key;Issue id;Issue Type;Status;Resolution;Assignee;Reporter;Creator;Created;Updated;Last Viewed;Resolved;Description;Parent;Parent summary;Status Category
+SPIKE - Test spike story;DOSS-25;10085;Story;In Progress;;Peter Laczko;Tamas Adami;Tamas Adami;11/Apr/23 3:24 PM;12/Apr/23 8:17 AM;12/Apr/23 3:48 PM;;;;;In Progress
+Data is not visible;DOSS-24;10084;Bug;To Do;;Jorge_Farro;Tamas Adami;Tamas Adami;11/Apr/23 3:24 PM;12/Apr/23 1:57 PM;12/Apr/23 3:06 PM;;;;;To Do
+Emails on new status of orders;DOSS-21;10081;Story;To Do;;;Aviral Prakash;Aviral Prakash;05/Apr/23 11:27 PM;12/Apr/23 1:57 PM;12/Apr/23 3:48 PM;;;10066;Order Tracking;To Do
+Discount Coupons;DOSS-18;10078;Story;To Do;;Aviral Prakash;Aviral Prakash;Aviral Prakash;05/Apr/23 11:26 PM;12/Apr/23 1:18 PM;12/Apr/23 3:48 PM;;;10064;Discounts;To Do
+Promo Codes;DOSS-16;10076;Story;In Progress;;Peter Laczko;Aviral Prakash;Aviral Prakash;05/Apr/23 11:26 PM;12/Apr/23 1:18 PM;12/Apr/23 3:48 PM;;;10064;Discounts;In Progress
+Filter by brand name;DOSS-15;10075;Story;In Progress;;Jorge_Farro;Aviral Prakash;Aviral Prakash;05/Apr/23 11:25 PM;12/Apr/23 1:18 PM;12/Apr/23 3:48 PM;;;10063;Filters;In Progress
+Filter by product category;DOSS-14;10074;Story;To Do;;Ferenc Varga;Aviral Prakash;Aviral Prakash;05/Apr/23 11:25 PM;12/Apr/23 1:18 PM;12/Apr/23 3:48 PM;;;10063;Filters;To Do
+Filter by type clothes, shoes, accessories;DOSS-13;10073;Story;To Do;;Aviral Prakash;Aviral Prakash;Aviral Prakash;05/Apr/23 11:24 PM;12/Apr/23 1:18 PM;12/Apr/23 3:48 PM;;;10063;Filters;To Do
+Recent search history;DOSS-12;10072;Story;In Progress;;Tamas Adami;Aviral Prakash;Aviral Prakash;05/Apr/23 11:23 PM;12/Apr/23 1:18 PM;11/Apr/23 2:46 PM;;As a user I want to the website to show me my recent search history in order to check and buy products for myself.;10062;Search Products;In Progress
+Autocomplete feature;DOSS-11;10071;Story;In Progress;;Peter Laczko;Aviral Prakash;Aviral Prakash;05/Apr/23 11:23 PM;12/Apr/23 8:17 AM;12/Apr/23 3:35 PM;;As a user I want the website to autocomplete the product description when I type in the search box in order to check and buy products for myself.;10062;Search Products;In Progress
+Search by metadata;DOSS-10;10070;Story;Done;Done;Aviral Prakash;Aviral Prakash;Aviral Prakash;05/Apr/23 11:23 PM;12/Apr/23 8:15 AM;11/Apr/23 2:46 PM;12/Apr/23 8:15 AM;As a user I want to search the product using the metadata in order to check and buy products for myself.;10062;Search Products;Done
+Login with the social media account;DOSS-9;10069;Story;Done;Done;Tamas Adami;Aviral Prakash;Aviral Prakash;05/Apr/23 11:23 PM;12/Apr/23 8:15 AM;12/Apr/23 3:48 PM;12/Apr/23 8:15 AM;As a user I want to login on the website with my social media account in order to check and buy products for myself.;10061;On boarding;Done
+Create a log in Page;DOSS-8;10068;Story;Done;Done;Jorge_Farro;Aviral Prakash;Aviral Prakash;05/Apr/23 11:22 PM;12/Apr/23 8:15 AM;11/Apr/23 2:45 PM;12/Apr/23 8:15 AM;As a user I want to login with my valid credentials on the website in order to check and buy products for myself.;10061;On boarding;Done
+User Registration;DOSS-7;10067;Story;Done;Done;Aviral Prakash;Aviral Prakash;Aviral Prakash;05/Apr/23 11:22 PM;12/Apr/23 8:15 AM;11/Apr/23 3:10 PM;12/Apr/23 8:15 AM;As a user I want to register on the website in order to check and buy products for myself.;10061;On boarding;Done
+Order Tracking;DOSS-6;10066;Epic;To Do;;;Aviral Prakash;Aviral Prakash;05/Apr/23 11:20 PM;05/Apr/23 11:22 PM;12/Apr/23 3:40 PM;;;;;To Do
+Payment;DOSS-5;10065;Epic;To Do;;;Aviral Prakash;Aviral Prakash;05/Apr/23 11:20 PM;05/Apr/23 11:21 PM;12/Apr/23 3:48 PM;;;;;To Do
+Discounts;DOSS-4;10064;Epic;To Do;;;Aviral Prakash;Aviral Prakash;05/Apr/23 11:20 PM;05/Apr/23 11:20 PM;12/Apr/23 3:48 PM;;;;;To Do
+Filters;DOSS-3;10063;Epic;To Do;;;Aviral Prakash;Aviral Prakash;05/Apr/23 11:19 PM;05/Apr/23 11:21 PM;12/Apr/23 3:48 PM;;;;;To Do
+Search Products;DOSS-2;10062;Epic;To Do;;;Aviral Prakash;Aviral Prakash;05/Apr/23 11:19 PM;05/Apr/23 11:21 PM;12/Apr/23 3:48 PM;;;;;To Do
+On boarding;DOSS-1;10061;Epic;To Do;;;Aviral Prakash;Aviral Prakash;05/Apr/23 11:18 PM;05/Apr/23 11:21 PM;12/Apr/23 3:36 PM;;;;;To Do
